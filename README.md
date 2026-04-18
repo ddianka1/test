@@ -3,7 +3,11 @@
 ## 📌 Project Description
 This project contains automated tests written using Playwright.
 
+---
+
 ## ⚙️ Installation
+
+```bash
 npm install
 
 ## ▶️ Run tests
